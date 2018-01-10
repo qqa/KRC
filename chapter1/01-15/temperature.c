@@ -13,7 +13,7 @@ float FtoC (float fahr)
 	celsius = (5.0/9.0) * (fahr-32.0);
 	return celsius;
 }
-	
+
 int main()
 {
 	float fahr, celsius;
